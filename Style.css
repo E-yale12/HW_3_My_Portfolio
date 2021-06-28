@@ -1,0 +1,71 @@
+nav{display: inline-block;
+    vertical-align: top;
+    padding: 25px
+    margin 10px;
+}
+
+nav li{display: inline-block;
+     vertical-align: top;
+     color: #ffff;
+     padding: 10px;
+     margin-top: 1%;
+}
+
+div.logo{
+ width: 23px;
+ padding: 1%;
+}
+
+nav{ background-color: #373738;
+    width: 85%;
+    padding: 1%;
+}
+
+ul{ width: 50%;
+  margin-left: auto;
+}
+
+.logo{ text-align: center;
+
+}
+
+section.heroImg{
+    height: 600px;
+    padding: 25px;
+}
+
+.content{
+    width: 500px;
+    margin: 0 auto;
+}
+
+body{background-image:("/images/pexels-bogdan.jpg");
+background-origin: border-box;
+background-repeat: no repeat;
+background-color: #bc9a9a;
+}
+
+p{font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    background-color:#373738; 
+    color:#ffff;
+}
+footer{
+    background-color: #373738;
+    padding: center;
+}
+
+footer li{ display: inline-block;
+    vertical-align: top;
+   padding: 10px;
+   margin-top: 1%;
+   color: #ffff;
+}
+
+.content img{
+    border-radius: 250px;
+    border:solid 5px burlywood
+}
+
